@@ -33,3 +33,4 @@ This program will be ran in Python3 and will need to do the following to get the
 After installing python onto your machine, in order to run the program, find where the directory of the program is and perform the following command.
 
 - python3 project2_part1.py
+- python3 project2_part2.py
